@@ -1,2 +1,2 @@
 # fluffy-broccoli
-For my projects
+For my project
